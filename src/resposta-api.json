@@ -1,0 +1,186 @@
+{
+  "stateData": {
+    "nextDragon": {
+      "Element": "Hextech",
+      "SpawnTimer": 0
+    },
+    "nextBaron": {
+      "Element": "Baron",
+      "SpawnTimer": 517.4616088867188
+    },
+    "gameTime": 682.5383911132812,
+    "gamePaused": false,
+    "inhibitors": {
+      "Inhibitors": [
+        {
+          "id": "T1_L1",
+          "key": 0,
+          "timeLeft": 0
+        },
+        {
+          "id": "T1_C1",
+          "key": 1,
+          "timeLeft": 0
+        },
+        {
+          "id": "T1_R1",
+          "key": 2,
+          "timeLeft": 0
+        },
+        {
+          "id": "T2_R1",
+          "key": 3,
+          "timeLeft": 0
+        },
+        {
+          "id": "T2_C1",
+          "key": 4,
+          "timeLeft": 0
+        },
+        {
+          "id": "T2_L1",
+          "key": 5,
+          "timeLeft": 0
+        }
+      ]
+    },
+    "scoreboard": {
+      "BlueTeam": {
+        "Name": "TUM",
+        "Icon": "Cache\\TeamIcons\\Default.png",
+        "Score": 0,
+        "Kills": 29,
+        "Towers": 7,
+        "Gold": 16072.728,
+        "Dragons": []
+      },
+      "RedTeam": {
+        "Name": "LMU",
+        "Icon": "Cache\\TeamIcons\\Default.png",
+        "Score": 0,
+        "Kills": 41,
+        "Towers": 10,
+        "Gold": 18346.516,
+        "Dragons": []
+      },
+      "GameTime": 682.5383911132812,
+      "SeriesGameCount": 3
+    },
+    "infoPage": {
+      "Title": "EXP per player",
+      "Order": 0,
+      "Players": [
+        {
+          "PlayerName": "KBM Dioge7",
+          "IconPath": "Cache\\13.20.1\\champion\\Taliyah_square.png",
+          "Values": {
+            "MinValue": 5040,
+            "MaxValue": 6120,
+            "CurrentValue": 5620.41015625
+          },
+          "ExtraInfo": ["9", "exp", "CHAOS"]
+        },
+        {
+          "PlayerName": "KBM SuperCleber",
+          "IconPath": "Cache\\13.20.1\\champion\\Jax_square.png",
+          "Values": {
+            "MinValue": 5040,
+            "MaxValue": 6120,
+            "CurrentValue": 5484.47705078125
+          },
+          "ExtraInfo": ["9", "exp", "CHAOS"]
+        },
+        {
+          "PlayerName": "nsf",
+          "IconPath": "Cache\\13.20.1\\champion\\Sylas_square.png",
+          "Values": {
+            "MinValue": 4060,
+            "MaxValue": 5040,
+            "CurrentValue": 4952.54931640625
+          },
+          "ExtraInfo": ["8", "exp", "ORDER"]
+        },
+        {
+          "PlayerName": "йetuno",
+          "IconPath": "Cache\\13.20.1\\champion\\Kaisa_square.png",
+          "Values": {
+            "MinValue": 4060,
+            "MaxValue": 5040,
+            "CurrentValue": 4193.369140625
+          },
+          "ExtraInfo": ["8", "exp", "ORDER"]
+        },
+        {
+          "PlayerName": "KBM scary",
+          "IconPath": "Cache\\13.20.1\\champion\\JarvanIV_square.png",
+          "Values": {
+            "MinValue": 4060,
+            "MaxValue": 5040,
+            "CurrentValue": 4142.7060546875
+          },
+          "ExtraInfo": ["8", "exp", "CHAOS"]
+        },
+        {
+          "PlayerName": "KBM scuro",
+          "IconPath": "Cache\\13.20.1\\champion\\Kalista_square.png",
+          "Values": {
+            "MinValue": 4060,
+            "MaxValue": 5040,
+            "CurrentValue": 4074.671630859375
+          },
+          "ExtraInfo": ["8", "exp", "CHAOS"]
+        },
+        {
+          "PlayerName": "Samkz",
+          "IconPath": "Cache\\13.20.1\\champion\\Maokai_square.png",
+          "Values": {
+            "MinValue": 3180,
+            "MaxValue": 4060,
+            "CurrentValue": 3624.066650390625
+          },
+          "ExtraInfo": ["7", "exp", "ORDER"]
+        },
+        {
+          "PlayerName": "Telaszz",
+          "IconPath": "Cache\\13.20.1\\champion\\Rakan_square.png",
+          "Values": {
+            "MinValue": 2400,
+            "MaxValue": 3180,
+            "CurrentValue": 3086.853759765625
+          },
+          "ExtraInfo": ["6", "exp", "ORDER"]
+        },
+        {
+          "PlayerName": "KBM Guigs",
+          "IconPath": "Cache\\13.20.1\\champion\\Lissandra_square.png",
+          "Values": {
+            "MinValue": 2400,
+            "MaxValue": 3180,
+            "CurrentValue": 2423.282470703125
+          },
+          "ExtraInfo": ["6", "exp", "CHAOS"]
+        },
+        {
+          "PlayerName": "Makes",
+          "IconPath": "Cache\\13.20.1\\champion\\KSante_square.png",
+          "Values": {
+            "MinValue": 660,
+            "MaxValue": 1140,
+            "CurrentValue": 741.949951171875
+          },
+          "ExtraInfo": ["3", "exp", "ORDER"]
+        }
+      ]
+    },
+    "blueGold": 16072.728,
+    "redGold": 18346.516,
+    "goldGraph": {
+      "0": 0,
+      "185.46505737304688": -432.0005,
+      "188.46644592285156": -414
+    },
+    "blueColor": "rgb(66,133,244)",
+    "redColor": "rgb(234,67,53)"
+  },
+  "eventType": "GameHeartbeat"
+}
